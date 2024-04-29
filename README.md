@@ -8,7 +8,6 @@
 -->
 
 # Communicate using Markdown
-# CHECK OUT MY HEADER
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
